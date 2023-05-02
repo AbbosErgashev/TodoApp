@@ -1,0 +1,28 @@
+<h2>Notes</h2>
+
+<a href="/notes/create">Create</a>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <tr>
+                <td>Id</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Price</td>
+            </tr>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in ViewBag.Notes)
+            {
+               <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

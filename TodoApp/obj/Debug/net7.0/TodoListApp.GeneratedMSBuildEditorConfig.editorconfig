@@ -1,0 +1,29 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TodoListApp
+build_property.RootNamespace = TodoListApp
+build_property.ProjectDir = c:\Users\eaxus\OneDrive\Desktop\TodoApp\TodoApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\eaxus\OneDrive\Desktop\TodoApp\TodoApp
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/eaxus/OneDrive/Desktop/TodoApp/TodoApp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eaxus/OneDrive/Desktop/TodoApp/TodoApp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/eaxus/OneDrive/Desktop/TodoApp/TodoApp/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
